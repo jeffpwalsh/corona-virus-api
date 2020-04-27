@@ -1,8 +1,9 @@
 
 # Corona Virus API
-- Code: L1T15 
-- https://jeffpwalsh-corona-virus-api.herokuapp.com/
 
+## Live Link
+
+- https://jeffpwalsh-corona-virus-api.herokuapp.com/
 
 ## Description
  - Data fetch from Corona Virus API
@@ -24,9 +25,6 @@
 - https://documenter.getpostman.com/view/10808728/SzS8rjbc?version=latest#00030720-fae3-4c72-8aea-ad01ba17adf8
 ```
 
-## Live Link
-
-- https://jeffpwalsh.github.io/myCV/index2.html
   
  ## Log
  27/04/2020
