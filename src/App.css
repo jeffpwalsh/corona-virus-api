@@ -1,0 +1,55 @@
+p {
+  font-size: small;
+}
+
+body {
+  background-color: #282c34;
+
+  align-items: center;
+  justify-content: center;
+  margin: 2%;
+}
+
+
+
+.loader img {
+
+ 
+ 
+  width: 300px;
+  margin-bottom: 5%;
+ 
+
+}
+
+.loader {
+
+  color: white;
+}
+
+
+.card {
+  border: 1px solid grey;
+  width: 15vw;
+  height: max-content;
+  padding: 5%;
+  margin: 5px;
+}
+
+.card-header {
+
+  background-color: aquamarine;
+  font-size: large;
+  font-weight: bolder;
+}
+
+
+
+.card-footer {
+
+  background-color:salmon;
+}
+
+.container-fluid {
+  width: 100%;
+}
