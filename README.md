@@ -1,10 +1,8 @@
 
 # Corona Virus API
 - Code: L1T15 
- - https://jeffpwalsh.github.io/L1T15C1_ECMAScript/Index.html 
+- https://jeffpwalsh-corona-virus-api.herokuapp.com/
 
-* Data fetch from Corona Virus API
-* Renders results in the broswer
 
 ## Description
  - Data fetch from Corona Virus API
