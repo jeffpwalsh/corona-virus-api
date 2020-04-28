@@ -2,7 +2,7 @@
 # Corona Virus API
 
 ## Live Link
-- Mobile render 
+- Mobile render only
 - https://jeffpwalsh-corona-virus-api.herokuapp.com/
 
 ## Description
