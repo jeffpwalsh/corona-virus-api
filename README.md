@@ -33,6 +33,12 @@
 - Heroku deplyment
 - README created
 
+25/06/2020
+
+- Added "South Africa" to jumbotron.
+- Added fixed width to body for mobile render.
+- Syling changes to country cards.
+
 
 
 
