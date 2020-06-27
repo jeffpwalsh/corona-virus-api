@@ -6,8 +6,8 @@
 - https://jeffpwalsh-corona-virus-api.herokuapp.com/
 
 ## Description
- - Data fetch from Corona Virus API
- - Renders results in the broswer
+ - Data fetch from Covid-19 infections API
+ - Renders results for all countries with Global and South Africa in the jumbotron
  
 ## Technologies & Tools Used
 ``` 
@@ -19,7 +19,7 @@
 - Google Chrome
 ```
      
-## API
+## API Source
 
 ``` 
 - https://documenter.getpostman.com/view/10808728/SzS8rjbc?version=latest#00030720-fae3-4c72-8aea-ad01ba17adf8
