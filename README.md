@@ -2,7 +2,7 @@
 # Corona Virus API
 
 ## Live Link
-- Mobile render only
+- Mobile render - max-width: 375px
 - https://jeffpwalsh-corona-virus-api.herokuapp.com/
 
 ## Description
